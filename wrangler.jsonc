@@ -12,7 +12,7 @@
 			"name": "webtop",
 			"class_name": "Webtop",
 			"image": "./Dockerfile",
-			"max_instances": 10,
+			"max_instances": 8,
 			    "instance_type": {
       			"vcpu": 2,
       			"memory_mib": 6144,
